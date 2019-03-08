@@ -38,7 +38,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD Candidate"
   institution = "University of Granada"
-  year = 2015-
+  year = 2015
 
 [[education.courses]]
   course = "Master in Applied Statistics"
