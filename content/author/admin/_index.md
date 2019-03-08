@@ -44,6 +44,7 @@ user_groups = ["Researchers", "Visitors"]
   course = "Master in Applied Statistics"
   institution = "University of Granada"
   year = 2011
+  logo = "/logo/logo_small_UGR.png"
 
 [[education.courses]]
   course = "BSc in Biology"
