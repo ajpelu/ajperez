@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ecologist"
+role = "Ecologist. Ecoinformatics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Granada", url = "https://www.ugr.es/" } ]
+organizations = [ { name = "University of Granada", url = "https://www.ugr.es/" }, {name = "Andalusian Institute for Earth System Research", url = "http://www.iista.es/en"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Global Change Ecology, Data Science and Remote Sensing"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -39,12 +39,12 @@ user_groups = ["Researchers", "Visitors"]
   course = "PhD Candidate"
   institution = "University of Granada"
   year = 2015
+  
 
 [[education.courses]]
   course = "Master in Applied Statistics"
   institution = "University of Granada"
   year = 2011
-  logo = "/logo/logo_small_UGR.png"
 
 [[education.courses]]
   course = "BSc in Biology"
@@ -69,8 +69,23 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=_2VwSg0AAAAJ"
+  link = "https://scholar.google.com/citations?user=_2VwSg0AAAAJ"
 
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-1747-0469"
+  
+[[social]]
+  icon = "publons"
+  icon_pack = "ai"
+  link = "https://publons.com/researcher/990995/antonio-jesus-perez-luque/"
+ 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Antonio_Jesus_Perez_Luque" 
+  
 [[social]]
   icon = "github"
   icon_pack = "fab"
