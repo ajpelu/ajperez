@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Antonio J. Pérez-Luque"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Ecologist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Granada", url = "https://www.ugr.es/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -23,9 +23,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Forest Ecology", 
+  "Global change ecology",
+  "Data Analysis and Ecoinformatics",
+  "Design of Environmental Information Systems", 
+  "Remote Sensing"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +36,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD Candidate"
+  institution = "University of Granada"
+  year = 2015-
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master in Applied Statistics"
+  institution = "University of Granada"
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biology"
+  institution = "University of Granada"
+  year = 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,22 +58,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:ajpelu@gmail.com" # "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/ajpelu"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.uk/citations?user=_2VwSg0AAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/ajpelu"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +84,14 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m biologist and Master in Applied Statistics from University of Granada (Spain).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I’m a PhD candidate at University of Granada. The focus of my disertation is the spatio-temporal dynamics of Pyrenean oak forests (*Quercus pyrenaica*) in Mediterranean mountains.
+
+I work as ecologist at Laboratory of Ecology of Andalusian Institute for Earth System Research, involved in the Sierra Nevada LTER-site and in the development of the Information System of Sierra Nevada Global Change Observatory. Previously, I worked as ecologist consultant for four years, focusing on restoration projects and ecology of threatened species.
+
+I like to introduce myself as an ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools (metadata).
+
+I acquired high ecoinformatics skills during a research stay at US-LTER Network Office (University of New Mexico) and at National Center of Ecological Analysis and Synthesis (NCEAS, Univ. of California) where I attendt to Open Science for Systehsis summer training in 2014.
+
+I’m currently co-leading the Ecoinformatic Working Group of the Spanish Terrestrial Ecology Association (AEET).
