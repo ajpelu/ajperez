@@ -104,10 +104,6 @@ I’m biologist and Master in Applied Statistics from University of Granada (Spa
 
 I’m a PhD candidate at University of Granada. The focus of my disertation is the spatio-temporal dynamics of Pyrenean oak forests (*Quercus pyrenaica*) in Mediterranean mountains.
 
-I work as ecologist at Laboratory of Ecology of Andalusian Institute for Earth System Research, involved in the Sierra Nevada LTER-site and in the development of the Information System of Sierra Nevada Global Change Observatory. Previously, I worked as ecologist consultant for four years, focusing on restoration projects and ecology of threatened species.
+I work as ecologist at Laboratory of Ecology of Andalusian Institute for Earth System Research since 2009, involved in the Sierra Nevada Global Change Observatory and in the Sierra Nevada LTER-site. Previously, I worked as ecologist consultant for four years, focusing on restoration projects and ecology of threatened species.
 
-I like to introduce myself as an ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools (metadata).
-
-I acquired high ecoinformatics skills during a research stay at US-LTER Network Office (University of New Mexico) and at National Center of Ecological Analysis and Synthesis (NCEAS, Univ. of California) where I attendt to Open Science for Systehsis summer training in 2014.
-
-I’m currently co-leading the Ecoinformatic Working Group of the Spanish Terrestrial Ecology Association (AEET).
+I like to introduce myself as ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools (metadata). I’m currently co-leading the Ecoinformatic Working Group of the Spanish Terrestrial Ecology Association (AEET).
