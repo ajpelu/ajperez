@@ -1,0 +1,11 @@
+---
+title: test
+author: Antonio J. Perez-Luque
+date: '2019-03-13'
+slug: test
+categories: []
+tags:
+  - R
+---
+
+una prueba
